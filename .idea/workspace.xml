@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff828b8-25dd-441a-ae38-27e1e431c45e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm.Python/Lilith/backup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.Python/Lilith/TCN1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.Python/Lilith/TCN1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Launcher/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Launcher/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCN1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TCN1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,7 +151,7 @@
       <updated>1618078127158</updated>
       <workItem from="1618078128953" duration="958000" />
       <workItem from="1618079206881" duration="83000" />
-      <workItem from="1618079651177" duration="7410000" />
+      <workItem from="1618079651177" duration="12500000" />
     </task>
     <servers />
   </component>
@@ -167,5 +169,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm.Python/Lilith/TCN1.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
