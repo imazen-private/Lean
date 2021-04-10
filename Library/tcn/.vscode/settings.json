@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/lilith/miniconda3/envs/qc_lean/bin/python",
+    "python.languageServer": "Pylance"
+}

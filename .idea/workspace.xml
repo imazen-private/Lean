@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff828b8-25dd-441a-ae38-27e1e431c45e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm.Python/Lilith/TCN1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.Python/Lilith/tcn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.Python/Lilith/tcn/tcn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm.Python/Lilith/backup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Launcher/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Launcher/config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1qzMmjFufQz8X77fRfhaJiadMtc" />
   <component name="ProjectViewState">
@@ -144,7 +149,7 @@
       <updated>1618078127158</updated>
       <workItem from="1618078128953" duration="958000" />
       <workItem from="1618079206881" duration="83000" />
-      <workItem from="1618079651177" duration="3611000" />
+      <workItem from="1618079651177" duration="7410000" />
     </task>
     <servers />
   </component>
